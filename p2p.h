@@ -1,4 +1,4 @@
- * This file is part of a peer-to-peer system allows sharing of files among 
+ /* This file is part of a peer-to-peer system allows sharing of files among 
  * participating clients. It consits of several source files:
  *
  * 1. p2p.h - a common header file.
